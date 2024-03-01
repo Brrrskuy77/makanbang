@@ -1,0 +1,31 @@
+{
+  "name": "makanbang",
+  "version": "1.0.0",
+  "description": "Makan Selalu Enak Pakai Apa Saja",
+  "main": "index.js",
+  "scripts": {
+    "test": "makan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brrrskuy77/makanbang.git"
+  },
+  "keywords": [
+    "Makan",
+    "Apapun",
+    "Enak"
+  ],
+  "author": "brrrskuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/makanbang/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/makanbang#readme",
+  "dependencies": {
+    "@types/node": "^20.11.24",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
